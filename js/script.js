@@ -5,7 +5,7 @@ const name = prompt ("Qual è il tuo nome?");
 const surname = prompt ("Qual è il tuo cognome?");
 
 // Chiedo il suo colore preferito e lo salvo
-
+const color = prompt ("Qual è il tuo colore preferito?");
 
 // Stampo in console nomecognomecolorepreferito21
 
